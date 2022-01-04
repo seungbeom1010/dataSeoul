@@ -6,11 +6,11 @@ export default function Footer() {
         <div className="footer">
             <Section id = 'footer'>
                 <div className="about">
-                    <div className="title">
-                        <h3>About Us</h3>
+                    <div className="title"> 
+                    {/* footer content 보류 */}
+                        {/* <h3>About Us</h3> */}
                     </div>
                     <p>
-                    yeardream project 13 team seoa yoona103111@naver.com, seoa yoona103111@naver.com, seoa yoona103111@naver.com, seoa yoona103111@naver.com, seoa yoona103111@naver.com ,seoa yoona103111@naver.com
                     </p>
                 </div>
                 <div className="contact">
