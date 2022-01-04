@@ -1,0 +1,24 @@
+
+from model_tables.tb_change_indication_city import Change_indication_city
+from model_tables.tb_change_indication_store import Change_indication_store
+from model_tables.tb_change_indication_town import Change_indication_town
+
+from model_tables.tb_covid_qu_city import Covid_qu_city
+
+from model_tables.tb_district_city_kr  import District_city_kr
+from model_tables.tb_district_map import District_map
+from model_tables.tb_district_town_kr import District_town_kr
+
+from model_tables.tb_estimated_sales import Estimated_sales
+
+from model_tables.tb_facility import Facility
+
+from model_tables.tb_income_expense_around import Income_expense_around
+
+from model_tables.tb_people_per_ground import People_per_ground
+
+from model_tables.tb_population_foot import Population_foot
+from model_tables.tb_population_house import Population_house
+from model_tables.tb_population_office import Population_office
+
+from model_tables.tb_store_count import Store_count
