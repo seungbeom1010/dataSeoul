@@ -38,7 +38,7 @@ export default function Overview(props) {
                         <p>{new Intl.NumberFormat().format(Math.floor(cityInfo.content[1] / 1000000))}백만원</p>
                     </div>
                     <div className="column">
-                        <h3>코로나</h3>
+                        <h3>고로나</h3>
                         <p>{new Intl.NumberFormat().format(cityInfo.content[2])}명</p>
                     </div>
                 </div>
