@@ -26,4 +26,12 @@
 1. 데이터 분석에 대한 설명 및 시각화한 데이터 제공(on progress)
 2. 상단 '분석 네비게이션'바를 통해 원하는 상권 및 세부 분석 서비스로 이동가능 
 
-<!-- ## 3. 웹 페이지 구성 -->
+## 3. 참고
+<분석 데이터 출처>
+- https://data.seoul.go.kr/dataList/OA-15572/S/1/datasetView.do
+- https://golmok.seoul.go.kr/source.do (데이터 출처)
+
+<기타 참고 웹사이트>
+- https://golmok.seoul.go.kr/main.do (우리마을가게 상권분석 서비스)
+- https://magazine.oasisbusiness.co.kr/%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%83%81%EA%B6%8C-%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%98%A4%ED%94%88/ (오아시스)
+
