@@ -45,7 +45,7 @@ const Section = styled.section `
         background:white;
         display:grid;
         height: 160vh;
-        padding:8rem 7rem;
+        padding: 8rem 7rem;
         grid-template-columns: 40% 60%;
         grid-template-rows:20% 5% 35% 40%; 
         grid-template-areas:

@@ -1,8 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components';
-
 import SideBar from './SideBar';
-
 import {VscListUnordered} from 'react-icons/vsc';
 import {AiOutlineDollarCircle} from 'react-icons/ai';
 import {BsPeople} from 'react-icons/bs';

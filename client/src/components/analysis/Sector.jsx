@@ -6,7 +6,7 @@ import { SalesBySectorGraph } from './Graphs';
 export default function Sector(props) {
     return (
         <Section id="sector">
-            {/* 상단에 전체설명부분 */}
+            {/* 상단에 전체설명부분 */} 
             <div className="analysisTitle">
                 <h2>업종분석</h2>
                 <p>서울특별시의 2019년 가구원수는 평균 3명이고, 가구주 연령은 54세 입니다.

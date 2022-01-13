@@ -7,26 +7,24 @@ import * as RiIcons from 'react-icons/ri';
 export const SidebarData = [
   {
     title: '홈',
-    path: '/overview',
+    path: '/main',
     icon: <AiIcons.AiFillHome />,
     iconClosed: <RiIcons.RiArrowDownSFill />,
     iconOpened: <RiIcons.RiArrowUpSFill />,
   },
   {
     title: '서비스 소개',
-    path: '/reports',
+    path: '/',
     icon: <IoIcons.IoIosPaper />,
     iconClosed: <RiIcons.RiArrowDownSFill />,
     iconOpened: <RiIcons.RiArrowUpSFill />,
   },
   {
     title: '지역별 상권분석',
-    path: '/messages',
+    path: '/',
     icon: <FaIcons.FaEnvelopeOpenText />,
-
     iconClosed: <RiIcons.RiArrowDownSFill />,
     iconOpened: <RiIcons.RiArrowUpSFill />,
-
     subNav:[
       {
           "title": "종로구",
@@ -157,7 +155,7 @@ export const SidebarData = [
   },
   {
     title: '상권분석 지도',
-    path: '/support',
+    path: '/',
     icon: <IoIcons.IoMdHelpCircle />
   }
 ];
